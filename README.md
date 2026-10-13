@@ -11,9 +11,5 @@ A simple Spotify-inspired web project built with **HTML, CSS only**.
    ```bash
    git clone https://github.com/your-username/spotify.git
 
-## Screenshots
-![alt text](<Screenshot 2026-10-13 095948.png>) 
-![alt text](<Screenshot 2026-10-13 100014.png>)
-
 ## Author
   -Sanket
